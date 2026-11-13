@@ -1,0 +1,5 @@
+{
+    "github.copilot.chat.localIndex.enabled": true,
+    "chat.disableAIFeatures": false,
+    "pip-updater.AutoUpdate": true
+}
